@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title> <b> WELCOME TO MY JESSICA'S WEBSITE </b> </title>
+    </head>
+    <body>
+        <div id="container">
+            <div id="header">
+                <hi>WELCOME TO MY WORLD</hi>
+        </div>
+        <div id="content">
+            <div id="main"></div>
+            <p> <i>HEY</i> welcome to my page</p>
+            <p>my name is sambol jessica ogechi,a final year student of babcock university and this is my take on Babcock university in the past 4 years of schooling </p>
+              <p>Over the past few years,its been very awesome,stressful,experiential and most of all fun schooling in Babcock university,it is undeniable that Babcock mounts alot of pressure on its students,well i guess it's for our own best. </p>
+              <p>Babcock has not only</p>
+            <div id="Nav">
+                <h3>Navigation</h3>
+                <ul>
+                    <li>Home</li>
+                    <li>About</li>
+                    <li>Contact</li>
+                </ul>
+        </div>
+        <div id="footer">
+            copyright & copy;2023 sambol jessica 
+        </div>
+    </body>
+</html>
